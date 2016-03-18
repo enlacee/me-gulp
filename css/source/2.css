@@ -1,0 +1,25 @@
+/*
+* style mobile css
+*/
+body {
+	margin: 0;
+	padding: 0;
+}
+body h1 {
+	font-size: 1em;
+	font-weight: normal;
+}
+.bg-mobile {
+	background: transparent url('bg-mobile.png') no-repeat center;
+}
+.eyes-blue {
+	background-color: #ffaaee;
+}
+
+/*
+* optional mobile
+*/
+.div-left {
+	display: inline-block;
+	border: 1px solid black;
+}

@@ -1,0 +1,19 @@
+/*
+* style desktop css
+*/
+body {
+	margin: 0;
+	padding: 0;
+}
+body h1 {
+	font-size: 20px;
+	font-weight: bold;
+}
+.bg {
+	background: transparent url('bg.png') no-repeat center;
+	border:1px solid blue;	
+}
+
+/*
+* optional
+*/
