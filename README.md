@@ -10,9 +10,10 @@ Instalar todas las dependencias `NPM`
 npm install
 ```
 
-Ejecutat la `tarea Gulp`
-``` bash
+Ejecutat la tarea `Gulp`
 
+``` bash
+gulp demo
 ```
 
 ### 02. Extra en desarrollo
