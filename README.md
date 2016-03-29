@@ -9,18 +9,25 @@ Instalar todas las dependencias `NPM`
 
 ``` bash
 npm install
-
-#imagenes
-npm install --save-dev gulp-imagemin
 ```
 
 Ejecutat la tarea `Gulp`
 
-``` bash
-gulp demo
-```
+	gulp demo
+
+
+### 01.1 gulp componentes
+
+	npm install gulp-concat
+	npm install gulp-uglify
+	
+	#imagenes
+	npm install --save-dev gulp-imagemin
+
 
 ### 02. Extra en desarrollo
 
 Cambiar de nombre de los archivos
 `gulpfile.tarea-css.js` tarea para minificar css
+
+
